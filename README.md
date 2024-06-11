@@ -1,5 +1,5 @@
 # Loremflix
-Um imitação do site Netflix utilizando HTML, CSS e JS (JQuery).
+Uma imitação do site Netflix utilizando HTML, CSS e JS (JQuery).
 
 
 https://dev-pedrob.github.io/loremflix/
